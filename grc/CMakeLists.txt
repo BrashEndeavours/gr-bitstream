@@ -18,5 +18,5 @@
 # Boston, MA 02110-1301, USA.
 
 install(FILES
-    DESTINATION share/gnuradio/grc/blocks
+    bitstream_bitstream_permutation_source_b.xml DESTINATION share/gnuradio/grc/blocks
 )

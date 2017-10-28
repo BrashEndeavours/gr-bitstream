@@ -31,4 +31,5 @@ except ImportError:
 	pass
 
 # import any pure python here
+from bitstream_permutation_source_b import bitstream_permutation_source_b
 #
